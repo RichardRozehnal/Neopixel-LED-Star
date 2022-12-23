@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Neopixel_LED_Star")(type "KiCad")(uri "${KIPRJMOD}/Libs/Neopixel_LED_Star.pretty")(options "")(descr ""))
+)
