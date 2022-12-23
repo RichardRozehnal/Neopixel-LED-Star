@@ -25,3 +25,10 @@ Hvězda se 44 neopixel LEDkami zobrazuje 21 efektů. Efekty se automaticky přep
 | U1,      | 1    | HT7533                 | HT75xx-1-SOT89   |
 | U2,      | 1    | STM32G031J6M6          | STM32G031J6M6    |
 | U3,      | 1    | 74AHCT1G125QW5-7       | 74AHCT1G125QW5-7 |
+
+## Další fotky
+
+![Neopixel LED Star PCB](Fotky/Neopixel_LED_Star_PCB.jpg "Neopixel LED Star PCB")
+![Neopixel LED Star PCB render](Fotky/Neopixel_LED_Star_PCB_render.jpg "Neopixel LED Star PCB render")
+![Neopixel LED Star bottom](Fotky/Neopixel_LED_Star_bottom.jpg "Neopixel LED Star bottom")
+![Neopixel LED Star control](Fotky/Neopixel_LED_Star_control.jpg "Neopixel LED Star control")
