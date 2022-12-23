@@ -6,5 +6,8 @@ Hvězda se 44 neopixel LEDkami zobrazuje 21 efektů. Efekty se automaticky přep
 
 ### Funkce tlačítka:
 1 stisk přepíná efekty
+
 2 rychlé stisky mění barvu (pouze při efektu, která používá jednu barvu)
+
 1 dlouhý stisk mění jas LEDek (celkem 5 nastavení jasu)
+
